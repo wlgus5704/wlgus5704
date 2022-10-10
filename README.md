@@ -1,5 +1,4 @@
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=JIHYEON&animation=blinking&fontAlign=70&rotate=13&fontAlignY=21&desc=Welecome%20to%20my%20Github&descAlign=70.&descAlignY=44)
 
 <h3 align="center"> Hi I'm Jihyeon 👋</h3>
  <br>
